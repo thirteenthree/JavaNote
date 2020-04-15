@@ -1,0 +1,27 @@
+/*全局字体修改*/
+body {
+     font-family: 'FangSong', Monaco, courier, monospace;
+}
+
+/*代码字体修改*/
+.markdown-section pre > code {
+    -moz-osx-font-smoothing: initial;
+    -webkit-font-smoothing: initial;
+    /*background-color: #2d2d2d;
+    */
+    border-radius: 2px;
+    color: #525252;
+    display: block;
+    font-family: 'FangSong', Monaco, courier, monospace;
+    font-size: 14px;
+    line-height: 1.6em;
+    margin: 0 2px;
+    max-width: inherit;
+    overflow: inherit;
+    padding: 2.2em 5px;
+    white-space: inherit;
+}
+/*首行所经*/
+.markdown-section p {
+    text-indent: 25px;
+}
