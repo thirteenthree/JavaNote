@@ -12,4 +12,4 @@ JVM中的解释器将字节码转换为机器码
 
 
 
-### [问题02:Java 是解释执行吗?](JavaNote/Questions/02Java 是解释执行吗)
+### [问题02:Java 是解释执行吗?](/Questions/02Java 是解释执行吗)

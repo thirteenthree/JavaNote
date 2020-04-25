@@ -50,5 +50,5 @@
 
   
 
-### [问题01:对Java平台的理解?](./Questions/01Java平台的理解)
+### [问题01:对Java平台的理解?](/Questions/01Java平台的理解)
 
